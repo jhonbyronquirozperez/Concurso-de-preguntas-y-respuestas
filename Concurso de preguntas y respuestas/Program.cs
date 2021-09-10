@@ -16,7 +16,7 @@ namespace Concurso_de_preguntas_y_respuestas
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new FrmInicio());
         }
     }
 }
